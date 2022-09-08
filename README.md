@@ -12,5 +12,4 @@ Languages: C,C++,Java+DSA, JavaScript.
 Frontend : HTML, CSS, Bootstrap, React.
 Backend: Node.js, Express.js.
 Database: MongoDB, MySQL.
-Technologies: Blockchain
 Tools: Git, GitHub.
