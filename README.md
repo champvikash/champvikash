@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champvikash&label=Profile%20views&color=0e75b6&style=flat" alt="champvikash" /> </p>
 
-- 🌱 I’m currently learning **React , Spring boot**
+- 🌱 I’m currently Working on **React , Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://champvikash.github.io/isbikash.github.io/](https://champvikash.github.io/isbikash.github.io/)
 
