@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://champvikash.github.io/isbikash.github.io/](https://champvikash.github.io/isbikash.github.io/)
 
-- 💬 Ask me about **HTML , CSS , JAVA , JAVSCRIPT , REACT , SPRINGBOOT , NODEJS , AWS , GIT , GITHUB**
+- 💬 Ask me about **HTML , CSS , JAVA , JAVSCRIPT , REACT , SPRINGBOOT , NODEJS , SQL , MySQL , AWS , GIT , GITHUB**
 
 - 📫 How to reach me **champvikash4@gmail.com**
 
