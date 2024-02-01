@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vikash</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate Android Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champvikash&label=Profile%20views&color=0e75b6&style=flat" alt="champvikash" /> </p>
 
-- 🌱 I’m currently Working on **React , Spring boot**
+- 🌱 I’m currently Working on **Android /**
 
 - 👨‍💻 All of my projects are available at [https://champvikash.github.io/isbikash.github.io/](https://champvikash.github.io/isbikash.github.io/)
 
-- 💬 Ask me about **HTML , CSS , JAVA , JAVSCRIPT , REACT , SPRINGBOOT , NODEJS , SQL , MySQL , AWS , GIT , GITHUB**
+- 💬 Ask me about **Java , Kotlin  , JAVSCRIPT , Dart, Sqlite , GIT , GITHUB**
 
 - 📫 How to reach me **champvikash4@gmail.com**
 
