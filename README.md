@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vikash</h1>
-<h3 align="center">A passionate Android Developer </h3>
+<h3 align="centre">I am an Android App Developer ( Kotlin, Jetpack Compose & Flutter). I love to develop 👨‍💻 High quality ✏️ apps for the Android platform. I have been doing Android Development for over a year as a  full-time developer. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champvikash&label=Profile%20views&color=0e75b6&style=flat" alt="champvikash" /> </p>
 
-- 🌱 I’m currently Working on **Android /**
+- 🌱 I’m currently Working on **Android and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://champvikash.github.io/isbikash.github.io/](https://champvikash.github.io/isbikash.github.io/)
 
-- 💬 Ask me about **Java , Kotlin  , JAVSCRIPT , Dart, Sqlite , GIT , GITHUB**
+- 💬 Ask me about **Kotlin , Java , Dart,  , GIT , GITHUB**
 
 - 📫 How to reach me **champvikash4@gmail.com**
 
