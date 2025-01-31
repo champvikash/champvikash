@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://champvikash.github.io/isbikash.github.io/](https://champvikash.github.io/isbikash.github.io/)
 
-- 💬 Ask me about **Kotlin , Java , Dart,  , GIT , GITHUB**
+- 💬 Ask me about **Kotlin , Java , Dart, GIT , GITHUB**
 
 - 📫 How to reach me **champvikash4@gmail.com**
 
